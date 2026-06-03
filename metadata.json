@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Đề Hóa Học",
+  "description": "Ứng dụng tự luyện đề thi Hóa học thông minh. Tải lên hoặc dán đề thi để chuyển đổi thành các bài tập tự luyện tương tác với lời giải chi tiết của AI và biểu đồ theo dõi tiến độ học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
